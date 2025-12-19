@@ -55,4 +55,4 @@ For personal and server use only. Redistribution or resale is not permitted.
 
 🧠 Credits
 
-Developed by Eclipse Studio
+Developed by EclipseFiveM
