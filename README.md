@@ -30,9 +30,11 @@ Place the resource in:
 
 Ensure in server.cfg:
 
-ensure qb-core
-ensure eclips-chat
-ensure eclipse-homeless
+```ensure qb-core```
+
+```ensure eclips-chat```
+
+```ensure eclipse-homeless```
 
 
 Restart the server.
